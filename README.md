@@ -31,6 +31,7 @@ Project Structure:
 - streamlit_ui.py: Contains the Streamlit user interface
 
 Contributing:
+** Right now, this project only works for my local supermarkets, feel free to fork it for your own supermarkets**
 1. Fork the repository
 2. Create a new branch (git checkout -b feature/improvement)
 3. Make changes and commit (git commit -am 'Add new feature')
